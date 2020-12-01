@@ -1,0 +1,57 @@
+<aiml>
+  <topic problemo="problem-solving">
+    <category>
+      <pattern>
+        Give me the hours passed.
+      </pattern>
+      <template>
+        Lets check how many hours passed.
+      </template>
+    </category>
+    
+    <category>
+      <pattern>
+        Show me some tesla multiplication.
+      </pattern>
+      <template>
+        Lets generate a vortex.
+      </template>
+    </category>
+    
+    <category>
+      <pattern>
+        Give me a prompt.
+      </pattern>
+      <template>
+        Lets look over the prompt list.
+      </template>
+    </category>
+    
+    <category>
+      <pattern>
+        Write me a poem.
+      </pattern>
+      <template>
+        Im feeling poetic.
+      </template>
+    </category>
+    
+    <category>
+      <pattern>
+        I want to know a digest size.
+      </pattern>
+      <template>
+        Estimating the size of a digest.
+      <template>
+    </category>
+    
+    <category>
+      <pattern>
+        I want to know the size of a hyper cube.
+      </pattern>
+      <template>
+        Lets check the size of a hyper cube.
+      </template>
+    </category>
+  </topic>
+</aiml>

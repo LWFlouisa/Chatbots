@@ -1,0 +1,12 @@
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+  <topic retrieve="fetch">
+    <category>
+      <pattern>
+        Fetch this apple.
+      </pattern>
+      <template>
+        I want that apple.
+      </template>
+    </category>
+  </topic>
+</aiml>

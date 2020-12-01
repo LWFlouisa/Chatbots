@@ -1,0 +1,21 @@
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+  <topic search="word-search">
+    <category>
+      <pattern>
+        I want to teach you a word.
+      </pattern>
+      <template>
+        Lets learn a new word.
+      </template>
+    </category>
+    
+    <category>
+      <pattern>
+        I want to teach you list of words.
+      </pattern>
+      <template>
+        Lets learn a list of words.
+      </template>
+    </category>
+  </topic>
+</aiml>

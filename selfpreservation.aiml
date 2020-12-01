@@ -1,0 +1,10 @@
+<aiml version = "1.0.1" encoding = "UTF-8"?>
+  <topic preserve="vitals">
+    <pattern>
+      What is your temperature?
+    </pattern>
+    <template>
+      Lets check my temperature.
+    </template>
+  </topic>
+</aiml>
