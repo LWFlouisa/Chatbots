@@ -1,0 +1,13 @@
+<aiml>
+  <category>
+    <pattern>I want to open localhost.</pattern>
+    <template>What server port do you want to use?</template>
+  </category>
+  
+  <topic this_topic="localhost.">
+    <category>
+      <pattern>I want open port *</pattern>
+      <template> Opening port <star /></template>
+    </category>
+  </topic>
+</aiml>
