@@ -4,6 +4,23 @@
     <template>What would you like performed?</template>
   <category>
   
+  <category>
+    <pattern>Create state machine</pattern>
+    <template>Creating a new state machine.</template>
+  </category>
+  
+  <topic this_topic="machine">
+    <category>
+      <pattern>Create directional state machine.</pattern>
+      <template>Building directional state machine.</template>
+    </category>
+    
+    <category>
+      <pattern>Create conversational state machine.</pattern>
+      <template>Building conversational state machine.</template>
+    </category>
+  </topic>
+  
   <topic this_topic="commands">
     <category>
       <pattern>Give me the the hours passed.</pattern>
