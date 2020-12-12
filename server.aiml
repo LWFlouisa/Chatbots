@@ -3,11 +3,33 @@
     <pattern>I want to open localhost.</pattern>
     <template>What server port do you want to use?</template>
   </category>
+
+  <category>
+    <pattern>I want to open a specific website.</pattern>
+    <template>What website do you want to open?</template>
+  </category>
   
   <topic this_topic="localhost.">
     <category>
       <pattern>I want open port *</pattern>
       <template> Opening port <star /></template>
+    </category>
+  </topic>
+  
+  <topic this_topic="website.">
+    <category>
+      <pattern>I want to open gitea.</pattern>
+      <template>Lets open the website Gitea.</template>
+    </category>
+    
+    <category>
+      <pattern>I want to open yacy.</pattern>
+      <template>Lets open the website Yacy.</template>
+    </category>
+
+    <category>
+      <pattern>I want to open syncthing.</pattern>
+      <template>Lets open the website Syncthing.</template>
     </category>
   </topic>
 </aiml>
