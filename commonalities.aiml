@@ -1,0 +1,22 @@
+<aiml>
+  <category>
+    <pattern>I want to talk about *.</pattern>
+    <template>Lets talk about *.</template>
+  </category>
+  
+  <topic this_topic="computers.">
+    <category>
+      <pattern>I want to build *</pattern>
+      <template>To build <star />, take a <star /> science class.</template>
+    </category>
+  </topic>
+  
+  <topic this_topic="writing.">
+    <category>
+      <pattern>I want to write a *</pattern>
+      <template>To write a <star />, you can create <star /> in creative writing class.</template>
+    </category>
+  </topic>
+  
+  <!-- connecting computers and writing -->
+</aiml>
