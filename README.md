@@ -19,14 +19,13 @@ WeaverBot::AIRulesets.tesla_multiplication
 WeaverBot::AIRulesets.autonomous_prompting
 WeaverBot::AIRulesets.calculate_hyper
 WeaverBot::AIRulesets.estimate_digest
+~~~
+
+### Creativity
+~~~ruby
+WeaverBot::AIRulesets.write_renpy_script
 WeaverBot::AIRulesets.write_poetry
 ~~~
 
-Coming Soon
-
-~~~ruby
-WeaverBot::AIRulesets.write_renpy_script
-~~~
-
 ## Chatbot Functions
-Chatbot functions are built into the AIML script itself, so I'm not hard coding chat structure.
+Chatbot functions are built into the AIML script itself, so I'm not hard coding chat structure. This bot will also allow for natural language commands, that are less awkward that simply saying "give_hours".
