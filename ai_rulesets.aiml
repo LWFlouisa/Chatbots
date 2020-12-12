@@ -59,5 +59,20 @@
       <pattern>I want you to draw a hypercube and calculate its size.</pattern>
       <template>Lets draw a hyper and calculate size.</template>
     </category>
+    
+    <category>
+      <pattern>I want you to classify a word.</pattern>
+      <template>Lets classify a word.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to classify multiple words.</pattern>
+      <template>Lets classify multiple words.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you learn a new English word and classify it.</pattern>
+      <template>Lets learn an English word and classify it.</template>
+    </category>
   </topic>
 </aiml>
