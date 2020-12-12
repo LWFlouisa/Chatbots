@@ -1,0 +1,13 @@
+<aiml>
+  <category>
+    <pattern>I want to talk about state-machines.</pattern>
+    <template>Lets talk about state machine.</template>
+  </category>
+  
+  <topic this_topic="state-machines.">
+    <cateogry>
+      <pattern>Lets evaluate stoplight mechanics.</pattern>
+      <template>Lets run a stoplight procedure.</template>
+    </category>
+  </topic>
+</aiml>
