@@ -1,12 +1,12 @@
 <aiml>
   <category>
     <pattern>I have a dog.</pattern>
-    <template><think><set name ="state">sad</set></think>You have a dog?</template>    
+    <template><think><set name="state">sad</set></think>You have a dog?</template>    
   </category>
 
   <category>
     <pattern>I have a cat.</pattern>
-    <template><think><set name ="state">happy</set></think>You have a cat?</template>     
+    <template><think><set name="state">happy</set></think>You have a cat?</template>     
   </category>
 
   <category>
