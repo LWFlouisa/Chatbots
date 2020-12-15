@@ -13,6 +13,6 @@
     <category>
       <pattern>My name is *</pattern>
       <template>It is nice to meet you <set name="name"><star /></set></template>
-    </cateogry>
+    </category>
   </topic>
 </aiml>
