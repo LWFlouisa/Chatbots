@@ -93,6 +93,198 @@
     </category>
 
     <category>
+      <pattern>I want you to write me a poem.</pattern>
+      <template>Lets write some poetry..</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a line.</pattern>
+      <template>Lets draw a line.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a square.</pattern>
+      <template>Lets draw a square.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a cube.</pattern>
+      <template>Lets draw a cube.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you to draw a hypercube.</pattern>
+      <template>Lets draw a hyper.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a hypercube and calculate its size.</pattern>
+      <template>Lets draw a hyper and calculate size.</template>
+    </category>
+    
+    <category>
+      <pattern>I want you to classify a word.</pattern>
+      <template>Lets classify a word.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to classify multiple words.</pattern>
+      <template>Lets classify multiple words.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you learn a new English word and classify it.</pattern>
+      <template>Lets learn an English word and classify it.</template>
+    </category>
+  </topic>
+</aiml>
+      <template>Lets estimate a digest size.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to write me a poem.</pattern>
+      <template>Lets write some poetry..</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a line.</pattern>
+      <template>Lets draw a line.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a square.</pattern>
+      <template>Lets draw a square.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a cube.</pattern>
+      <template>Lets draw a cube.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you to draw a hypercube.</pattern>
+      <template>Lets draw a hyper.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a hypercube and calculate its size.</pattern>
+      <template>Lets draw a hyper and calculate size.</template>
+    </category>
+    
+    <category>
+      <pattern>I want you to classify a word.</pattern>
+      <template>Lets classify a word.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to classify multiple words.</pattern>
+      <template>Lets classify multiple words.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you learn a new English word and classify it.</pattern>
+      <template>Lets learn an English word and classify it.</template>
+    </category>
+  </topic>
+</aiml>
+      <template>Lets estimate a digest size.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to write me a poem.</pattern>
+      <template>Lets write some poetry..</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a line.</pattern>
+      <template>Lets draw a line.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a square.</pattern>
+      <template>Lets draw a square.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a cube.</pattern>
+      <template>Lets draw a cube.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you to draw a hypercube.</pattern>
+      <template>Lets draw a hyper.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a hypercube and calculate its size.</pattern>
+      <template>Lets draw a hyper and calculate size.</template>
+    </category>
+    
+    <category>
+      <pattern>I want you to classify a word.</pattern>
+      <template>Lets classify a word.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to classify multiple words.</pattern>
+      <template>Lets classify multiple words.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you learn a new English word and classify it.</pattern>
+      <template>Lets learn an English word and classify it.</template>
+    </category>
+  </topic>
+</aiml>
+      <template>Lets estimate a digest size.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to write me a poem.</pattern>
+      <template>Lets write some poetry..</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a line.</pattern>
+      <template>Lets draw a line.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a square.</pattern>
+      <template>Lets draw a square.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a cube.</pattern>
+      <template>Lets draw a cube.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you to draw a hypercube.</pattern>
+      <template>Lets draw a hyper.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to draw a hypercube and calculate its size.</pattern>
+      <template>Lets draw a hyper and calculate size.</template>
+    </category>
+    
+    <category>
+      <pattern>I want you to classify a word.</pattern>
+      <template>Lets classify a word.</template>
+    </category>
+
+    <category>
+      <pattern>I want you to classify multiple words.</pattern>
+      <template>Lets classify multiple words.</template>
+    </category>
+ 
+    <category>
+      <pattern>I want you learn a new English word and classify it.</pattern>
+      <template>Lets learn an English word and classify it.</template>
+    </category>
+
+    <category>
       <pattern>I want you to estimate a digest size.</pattern>
       <template>Lets estimate a digest size.</template>
     </category>
