@@ -3,17 +3,11 @@
     <pattern>Lets talk about pets.</pattern>
     <template>Lets discuss pets.</template>
   </category>
-  
+
   <topic this_topic="pets.">
     <category>
       <pattern>I have a *</pattern>
-      <think><set animal="pet">>star /></set></think>
-      <template>
-        <condition anima="pet" value="cat">Cats meow a lot. Chase mice around.</condition>
-        <condition anima="pet" value="dog">Dogs bark a lot. Chase their tail around.</condition>
-        <condition anima="pet" value="cats">Cats meow a lot. Chase mice around.</condition>
-        <condition anima="pet" value="dogs">Dogs bark a lot. Chase their tail around.</condition>
-      </template>
+      <template>I also want a <star</template>
     </category>
   </topic>
 </aiml>
