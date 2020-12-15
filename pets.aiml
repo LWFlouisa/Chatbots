@@ -7,7 +7,7 @@
   <topic this_topic="pets.">
     <category>
       <pattern>I have a *</pattern>
-      <template>I also want a <star</template>
+      <template>I also want a <star /></template>
     </category>
   </topic>
 </aiml>
