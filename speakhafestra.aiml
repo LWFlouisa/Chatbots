@@ -6,17 +6,17 @@
 
   <topic this_topic="Hafestra.">
     <category>
-      <pattern>Ruh * si isatee eranige.<pattern>
+      <pattern>Ruh * si isatee eranige.</pattern>
       <template>Yona <set vegetable="siaro"><star /></set> si isatee eranige!</template>
     </category>
     
     <category>
-      <pattern>Ruh * si isatee erudi.<pattern>
+      <pattern>Ruh * si isatee erudi.</pattern>
       <template>Yona <set vegetable="pioma"><star /></set> si isatee erudi!</template>
     </category>
 
     <category>
-      <pattern>Quoni isatee eranige?<pattern>
+      <pattern>Quoni isatee eranige?</pattern>
       <template>
         <condition vegetable="">Gehi ni avieru piesa siero.</condition>
         <condition vegetable="siaro">Yona siaro isatee eranige.</condition>
@@ -24,7 +24,7 @@
     </category>
 
     <category>
-      <pattern>Quoni isatee erudi?<pattern>
+      <pattern>Quoni isatee erudi?</pattern>
       <template>
         <condition vegetable="">Gehi ni avieru piesa siero.</condition>
         <condition vegetable="siaro">Yona siaro isatee erudi.</condition>
